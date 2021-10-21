@@ -1,5 +1,5 @@
 Preview Site
-(fz-portfolio.netlify.app)
+fz-portfolio.netlify.app
 
 ## Getting Started
 
